@@ -33,7 +33,7 @@ the questions explored here are :
 
 
 ## Conclusions
-The data analysis reveals interesting insights about F1 races, the drivers who compete(d) and championships won. The findings are summarized in the Jupyter notebooks and visualized in the plots directory.
+The data analysis reveals interesting insights about F1 races, the drivers who compete and championships won. The findings are summarized in the Jupyter notebooks and visualized in the plots directory.
 
 
 
